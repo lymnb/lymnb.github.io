@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>somethingaboutgithub</title>
+    <url>/2020/06/29/somethingaboutgithub/</url>
+    <content><![CDATA[<h3 id="注册"><a href="#注册" class="headerlink" title="注册"></a>注册</h3><p>首先注册以后这个是我们每个人的主界面，左侧的这一块repositories是“所谓的仓库”，也是就你在github上有哪些项目，我们这个项目名称就是SharedBattery.</p>
+<p>具体的功能大家也可以点击中间的那个按钮Read the guide不过这个教程是纯英文的，而且讲的很“官方”，所以推荐大家看下面这个知乎的介绍：</p>
+<p><a href="https://www.zhihu.com/question/20070065/answer/79557687" target="_blank" rel="noopener">https://www.zhihu.com/question/20070065/answer/79557687</a></p>
+<p>2.3w赞，把github讲的很直观。（它这个是基于githubPC端的程序，和网页端稍有不同，PC端的有些功能更直观，不过就我们项目来说，网页端也够用了）</p>
+<p><strong>我这里仅仅讲一下怎样上传项目文件和怎么写团队wiki，至于大家下载别的项目和搜索别的项目大家可以自己看知乎那个文章，写的很详细了。</strong></p>
+]]></content>
+      <tags>
+        <tag>tech</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2020/06/29/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>hexo博客搭建</title>
+    <url>/2020/11/26/hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</url>
+    <content><![CDATA[<p>搭建的基本步骤：</p>
+<p><a href="https://blog.csdn.net/wsmrzx/category_7913494.html" target="_blank" rel="noopener">https://blog.csdn.net/wsmrzx/category_7913494.html</a></p>
+<p>绑定域名：</p>
+<p><a href="https://www.jianshu.com/p/da20ddc03cdf" target="_blank" rel="noopener">https://www.jianshu.com/p/da20ddc03cdf</a></p>
+<p>部署到服务器：</p>
+<p><a href="https://blog.csdn.net/CLOUD_J/article/details/104697089" target="_blank" rel="noopener">https://blog.csdn.net/CLOUD_J/article/details/104697089</a></p>
+ <a id="more"></a>
+
+<p>主题更换：</p>
+<p>官方文档：<a href="https://hexo.io/themes/" target="_blank" rel="noopener">https://hexo.io/themes/</a></p>
+<p><a href="https://shen-yu.gitee.io/2019/ayer/" target="_blank" rel="noopener">https://shen-yu.gitee.io/2019/ayer/</a></p>
+<p>ayer主题详解：</p>
+<p><a href="https://www.jianshu.com/p/8c15e88a64f5" target="_blank" rel="noopener">https://www.jianshu.com/p/8c15e88a64f5</a></p>
+<p>比较好的插件：</p>
+<p>·     <a href="https://links.jianshu.com/go?to=https%3A%2F%2Fgithub.com%2Fnetcan%2Fhexo-generator-index-pin-top" target="_blank" rel="noopener">hexo-generator-index-pin-top</a> 用于文章置顶</p>
+<p>·     <a href="https://links.jianshu.com/go?to=https%3A%2F%2Fgithub.com%2FMikeCoder%2Fhexo-blog-encrypt%2Fblob%2Fmaster%2FReadMe.zh.md" target="_blank" rel="noopener">hexo-blog-encrypt</a> 用于文章加密</p>
+<p>·     <a href="https://links.jianshu.com/go?to=https%3A%2F%2Fgithub.com%2FMoePlayer%2Fhexo-tag-aplayer%2Fblob%2Fmaster%2Fdocs%2FREADME-zh_cn.md" target="_blank" rel="noopener">hexo-tag-aplayer</a> 用于播放音乐</p>
+<p>·     <a href="https://links.jianshu.com/go?to=https%3A%2F%2Fgithub.com%2FMoePlayer%2Fhexo-tag-dplayer" target="_blank" rel="noopener">hexo-tag-dplayer</a> 用于播放视频</p>
+<p>·     <a href="https://links.jianshu.com/go?to=https%3A%2F%2Fgithub.com%2FEYHN%2Fhexo-helper-live2d%2Fblob%2Fmaster%2FREADME.zh-CN.md" target="_blank" rel="noopener">hexo-helper-live2d</a> 二次元看板娘</p>
+<p>更多插件见：<a href="https://hexo.io/plugins/。" target="_blank" rel="noopener">https://hexo.io/plugins/。</a></p>
+]]></content>
+      <categories>
+        <category>Technology</category>
+      </categories>
+      <tags>
+        <tag>Technology</tag>
+      </tags>
+  </entry>
+</search>
